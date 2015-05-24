@@ -1,0 +1,38 @@
+@charset "utf-8";
+html{
+}
+
+body{
+
+}
+h1{
+    left: 45%;
+    position: absolute;
+}
+.pokemon{
+    width: 32%;
+    height: 32%;
+    float: left;
+}
+.pokemonp{
+    font-size: 90%;
+}
+.pokemonimg{
+    width: 80%;
+}
+.typeimg{
+    width: 30%;
+}
+#LoginButton{
+    position: absolute;
+    top: 20%;
+    right: 5%;
+}
+#LoginForm{
+    visibility: hidden;
+}
+#pokemons{
+    top: 20%;
+    left: 10%;
+    position: absolute;
+}
